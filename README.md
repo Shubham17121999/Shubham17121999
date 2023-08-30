@@ -1,4 +1,4 @@
-![logo]([[https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg))
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 <!--
 **Shubham17121999/Shubham17121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
