@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [https://Shubham17121999.github.io](https://Shubham17121999.github.io)
- <img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)">
+ <img align="right" alt="coding" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)">
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shubham-Kulkarni-364](https://www.quora.com/profile/Shubham-Kulkarni-364)
 
 - 📫 How to reach me **shubhamkulkarni17121999@gmail.com**
