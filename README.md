@@ -1,5 +1,5 @@
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
-
+<!--![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
+-->
 <!--
 **Shubham17121999/Shubham17121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham17121999&label=Profile%20views&color=0e75b6&style=flat" alt="shubham17121999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham17121999" alt="shubham17121999" /></a> </p>
-
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/0*W5_WMS72vBn74iqs.gif">
 - 🔭 MakeUp [MakeUp](https://github.com/Shubham17121999/verdant-attack-1980)
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [https://Shubham17121999.github.io](https://Shubham17121999.github.io)
- <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*W5_WMS72vBn74iqs.gif">
+ 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shubham-Kulkarni-364](https://www.quora.com/profile/Shubham-Kulkarni-364)
 
 - 📫 How to reach me **shubhamkulkarni17121999@gmail.com**
