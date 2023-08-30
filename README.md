@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Shubham17121999/Shubham17121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [https://Shubham17121999.github.io](https://Shubham17121999.github.io)
-
+- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shubham-Kulkarni-364](https://www.quora.com/profile/Shubham-Kulkarni-364)
 
 - 📫 How to reach me **shubhamkulkarni17121999@gmail.com**
-- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
