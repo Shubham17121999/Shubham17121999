@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Shubham Kulkarni</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="coding" width="100" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham17121999&label=Profile%20views&color=0e75b6&style=flat" alt="shubham17121999" /> </p>
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shubham-Kulkarni-364](https://www.quora.com/profile/Shubham-Kulkarni-364)
 
 - 📫 How to reach me **shubhamkulkarni17121999@gmail.com**
+- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
