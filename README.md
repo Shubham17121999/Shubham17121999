@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham17121999" alt="shubham17121999" /></a> </p>
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/0*W5_WMS72vBn74iqs.gif">
-- 🔭 MakeUp [MakeUp](https://github.com/Shubham17121999/verdant-attack-1980)
+
 
 - 🌱 I’m currently learning **Full Stack Web Development Course**
 
